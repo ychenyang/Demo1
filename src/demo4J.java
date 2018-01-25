@@ -4,5 +4,7 @@ public class demo4J {
         int b = 2;
         int sum = a+b;
         System.out.println("sum="+sum);
+        System.out.println(a);
+        System.out.println(b);
     }
 }
