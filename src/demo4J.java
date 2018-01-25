@@ -7,5 +7,6 @@ public class demo4J {
         System.out.println(a);
         System.out.println(b);
         System.out.println("this is branch1");
+        System.out.println("this is a update");
     }
 }
